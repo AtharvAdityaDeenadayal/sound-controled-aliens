@@ -1,0 +1,29 @@
+body{
+    background-color:skyblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+.header
+{
+    background-color: white;
+    color: darkblue;
+}
+.header p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+color: gray;
+font-weight: bold;
+}
+button{
+    margin-top: 30px;
+width: 130px;
+font-size: 25px !important;
+}
+#footer{
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    background-color: white;
+    line-height: 3;
+    font-size: 20px;
+    text-shadow: 5px 5px 5px gray;
+}
